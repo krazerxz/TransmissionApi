@@ -14,6 +14,8 @@ class TransmissionApi::Client
     "rateDownload",
     "rateUpload",
     "percentDone",
+    "status",
+    "magnetLink",
     "files"
   ]
 
